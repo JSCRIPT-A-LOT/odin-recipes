@@ -1,2 +1,3 @@
 # odin-recipes
-1st html  project
+H t m l practice
+3 sample recipes 
