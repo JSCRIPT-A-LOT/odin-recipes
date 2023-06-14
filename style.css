@@ -20,14 +20,13 @@ body {
 }
 
 h1 {
-    color: #ff5e3a;
+    color: #813220;
     font-size: 36px;
     margin-bottom: 20px;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
 }
 
 ul {
-    list-style-type: none;
     padding: 2;
 }
 
@@ -36,33 +35,24 @@ li {
 }
 
 a {
-    text-decoration: none;
-    color: #007bff;
-    transition: color 0.3s ease;
-}
-
-a:hover {
-    color: #ff5e3a;
+    color: #813220;
 }
 
 img {
     display: block;
     margin: 4px auto;
     max-width: 100%;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
-    border-radius: 5px;
+    border-radius: 100px;
 }
 
 .disclamer {
     margin-top: 40px;
     color: #555;
-    text-transform: uppercase;
-    letter-spacing: 2px;
     font-size: 20px;
     font-weight: bold;
 }
 
 em {
     font-style: italic;
-    color: #ff5e3a;
+    color: #813220;
 }
